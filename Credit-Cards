@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
     <!-- Required meta tags -->
@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!-- Font Awesome. -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
- <!-- Add header img  <style>
+    <!-- Add header img  <style>
       #header {
       background: url("skyline.jpg") center center / cover no-repeat;
       }
@@ -18,78 +18,75 @@
   </head>
   
   <body>
-    <Nav class="navbar navbar-dark" style="background-color:#84d664;">
+  <Nav class="navbar navbar-dark" style="background-color:#84d664;">
         <div class="container">
             <a href="#" class="navbar-brand "><i class="fas fa-credit-card m-2"></i>Cards</a>
         </div>
-      </Nav> 
+        
+  </Nav> 
       <div class="container">
         <section id="header" class="jumbotron text-center">
-          <h1 class="display 3 "> Great Credit Cards</h1>
+          <h1 class="display 3"> Great Credit Cards</h1>
           <a href="https://www.creditkarma.com/signup?redirectUrl=" class="btn btn-primary mt-3"> CHECK YOUR CREDIT</a>
-      </section>
+        </section>
       </div>
-    
     
           <div class="container">
                <div class="row">
                    <div class="col-lg-4 mb-3"> <!--at screen large take up 4px per section-->
                        <div class ="card">
-                       <img class="card-img-top" src="https://moneycrashers-sparkchargemedia.netdna-ssl.com/wp-content/uploads/2016/08/capital-one-quicksilver.jpg"  alt=""> <!-- dont forget to add imgs-->
-                            <div class="card-body">
-                                <h5 class="ard-title">Capital One Quicksilver</h5>
+                        <img class="card-img-top" src="https://moneycrashers-sparkchargemedia.netdna-ssl.com/wp-content/uploads/2016/08/capital-one-quicksilver.jpg"  alt=""> <!-- dont forget to add imgs-->
+                          <div class="card-body">
+                            <h5 class="ard-title">Capital One Quicksilver</h5>
                                 <ul class="card-text">
-                            <li> $150 Cash Bonus</li>
-                            <li>1.5% Back On Everything</li>
-                            <li>$0 Annual Fee</li>
-                            </ul>
+                                  <li> $150 Cash Bonus</li>
+                                  <li>1.5% Back On Everything</li>
+                                  <li>$0 Annual Fee</li>
+                                </ul>
                                 <a href="https://www.capitalone.com/credit-cards/quicksilver/" class="btn btn-outline-success btn-sm">Apply</a>
                                 <a href="#" class="btn btn-outline-danger btn-sm"><i class="far fa-heart"> Favorite</i></a>                                    
                             </div>
                         </div>
                       </div> 
              
-    
             <div class="col-lg-4 mb-3"> 
               <div class ="card">
                 <img class="card-img-top" src="https://cdn.creditcards.com/shared/images/cards/276x174/chase-sapphire-reserve-040418.png" alt=""> <!-- dont forget to add imgs-->
-                <div class="card-body">
-                  <h5 class="ard-title"> CHASE SAPHIRE RESERVE</h5>
-                  <ul class="card-text">
-                    <li>3x Points On Travel and Dining</li>
-                    <li>$300 Yearly Travel Credit</li>
-                      <li>Airport Lounge Access</li>
-                      <li>TSA PreCheck</li>
-                      <li><a href="https://www.chase.com/card-benefits/sapphirereserve/travel">more</a></li>
-                    </ul>
-                        <a href="https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve?iCELL=6C1Y" class="btn btn-outline-success btn-sm">Apply</a>
-                        <a href="#"  class="btn btn-outline-danger btn-sm"><i class="far fa-heart"> Favorite</i> </a>  
-                                                         
+                  <div class="card-body">
+                    <h5 class="ard-title"> CHASE SAPHIRE RESERVE</h5>
+                      <ul class="card-text">
+                        <li>3x Points On Travel and Dining</li>
+                         <li>$300 Yearly Travel Credit</li>
+                         <li>Airport Lounge Access</li>
+                         <li>TSA PreCheck</li>
+                         <li><a href="https://www.chase.com/card-benefits/sapphirereserve/travel">more</a></li>
+                       </ul>
+                       <a href="https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve?iCELL=6C1Y" class="btn btn-outline-success btn-sm">Apply</a>
+                       <a href="#"  class="btn btn-outline-danger btn-sm"><i class="far fa-heart"> Favorite</i> </a>                                                          
                   </div>
                 </div>
               </div>
+              
               <div class="col-lg-4 mb-3"> 
                 <div class ="card">
                   <img class="card-img-top" src="https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/platinum-card.png" alt=""> <!-- dont forget to add imgs-->
-                  <div class="card-body">
-                    <h5 class="ard-title">AMERICAN EXPRESS PLATINUM</h5>
-                    <ul class="card-text">
-                      <li>5x points On Flights and Hotels</li>
-                      <li>$200 Yearly Airline Fee Credit</li>
-                      <li>$200 Yearly Uber Credit</li>
-                      <li>Centurion Airport Lounge Access</li>
-                      <li>TSA PreCheck</li>
-                      <li><a href="https://global.americanexpress.com/card-benefits/view-all/platinum">more</a></li>
-                      </ul>
+                    <div class="card-body">
+                      <h5 class="ard-title">AMERICAN EXPRESS PLATINUM</h5>
+                        <ul class="card-text">
+                          <li>5x points On Flights and Hotels</li>
+                          <li>$200 Yearly Airline Fee Credit</li>
+                          <li>$200 Yearly Uber Credit</li>
+                          <li>Centurion Airport Lounge Access</li>
+                          <li>TSA PreCheck</li>
+                          <li><a href="https://global.americanexpress.com/card-benefits/view-all/platinum">more</a></li>
+                       </ul>
                       <a href="https://www.americanexpress.com/us/credit-cards/card-application/apply/platinum-charge-card/25330-10-0?pmccode=137&intlink=US-Acq-Shop-Consumer-VAC-Prospect-Apply-Platinum#/" class="btn btn-outline-success btn-sm">Apply</a>
-
                       <a href="#"  class="btn btn-outline-danger btn-sm"><i class="far fa-heart"> Favorite </i> </a>                                   
                     </div>
                 </div>
               </div>
-        </div>
+           </div>
               
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
